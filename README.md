@@ -3,7 +3,7 @@ About vizro-mcp-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/vizro-mcp-feedstock/blob/main/LICENSE.txt)
 
-Home: https://vizro.mckinsey.com/
+Home: https://pypi.org/project/vizro-mcp/
 
 Package license: Apache-2.0
 
@@ -13,14 +13,17 @@ Development: https://github.com/mckinsey/vizro
 
 Documentation: https://vizro.readthedocs.io/en/stable/
 
+Vizro-MCP is a Python library that provides a server to help create Vizro dashboards and charts.
+
 Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table><tr>
+    <td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=25831&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vizro-mcp-feedstock?branchName=main">
+      <a href="https://github.com/conda-forge/vizro-mcp-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/vizro-mcp-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
       </a>
     </td>
   </tr>
